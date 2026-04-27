@@ -13,6 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-https://linkedin.com/in/diofeher
-
 passionate about dev tooling, cloud-native and programming
